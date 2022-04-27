@@ -2,6 +2,7 @@
 React Native by building a modern NFT Marketplace iOS and Android
 
 ---
-<div style="text-align: center">
+
+<h4 align="center"> 
 	🚧  Projeto MapsTravelApp 🚀 Em construção...  🚧
-</div>
+</h4>
