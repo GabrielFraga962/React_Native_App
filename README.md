@@ -8,4 +8,3 @@ React Native by building a modern NFT Marketplace iOS and Android
 </h4>
 
 
-
