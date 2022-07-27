@@ -7,4 +7,3 @@ React Native by building a modern NFT Marketplace iOS and Android
 	🚧  Projeto Marketplace iOS and Android 🚀 Em construção...  🚧
 </h4>
 
-
